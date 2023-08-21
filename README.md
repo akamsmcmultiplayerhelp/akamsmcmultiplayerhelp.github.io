@@ -1,6 +1,6 @@
 ## Aka.ms/mcmultiplayerhelp
 
-It is an add-on that enables you to play Minecraft across numerous computers while maintaining the same player and game settings, even if they are located in different cities and speak different languages. With the aid of **[aka.ms/mcmultiplayerhelp](https://akamsmcmultiplayerhelp.github.io/)**, the addon is compatible with the versions of Minecraft for Windows, macOS, Linux, and Android. It is not compatible with split-screen multiplayer games on Xbox One or Nintendo Switch consoles, nor with mobile versions of those games.
+It is an add-on that enables you to play **Minecraft** across numerous computers while maintaining the same player and game settings, even if they are located in different cities and speak different languages. With the aid of **[aka.ms/mcmultiplayerhelp](https://akamsmcmultiplayerhelp.github.io/)**, the addon is compatible with the versions of Minecraft for Windows, macOS, Linux, and Android. It is not compatible with split-screen multiplayer games on Xbox One or Nintendo Switch consoles, nor with mobile versions of those games.
 
 
 
